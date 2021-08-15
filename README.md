@@ -1,2 +1,3 @@
 # hello-world
 hello world repo
+I love to code, Curently I'm working with cpp and I had also started learning java. Hope I will graps all  the concepts of it soon....
